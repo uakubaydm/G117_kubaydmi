@@ -1,0 +1,5 @@
+a, b, c, d = 10, 5, 7, 9
+print (a/b)
+print(a+b+c-d)
+print(a*c/b+d)
+print(a-b+c+d)
